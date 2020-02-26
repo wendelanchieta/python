@@ -1,5 +1,5 @@
 <figure>
-  <img src="https://github.com/wendelanchieta/python/blob/master/img/python_banner_image.png" alt="cabecalho-readme-python" height="300" align="middle">
+  <img src="https://github.com/wendelanchieta/python/blob/master/img/python_banner_image.png" alt="cabecalho-readme-python" height="100" align="middle">
 </figure>
 
 [![Email](https://img.shields.io/badge/email-wendelanchieta%40gmail.com-blue)](mailto:wendelanchieta@gmail.com)
