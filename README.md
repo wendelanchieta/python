@@ -11,4 +11,4 @@
 Lista de Funcionalidades:
 * Manipulação de pdf
 * Exportação de dados de um banco MySQL para um arquivo Excel.
-* [Web Crawler (Rastreador web)] (https://github.com/wendelanchieta/python/tree/master/crawler)
+* [Web Crawler (Rastreador web)](https://github.com/wendelanchieta/python/tree/master/crawler)
