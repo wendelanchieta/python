@@ -10,5 +10,5 @@
 
 Lista de Funcionalidades:
 * [Manipulação de pdf](https://github.com/wendelanchieta/python/tree/master/pdf)
-* [Exportação de dados de um banco MySQL para um arquivo Excel.](/tree/master/mysql)
+* [Exportação de dados de um banco MySQL para um arquivo Excel.](https://github.com/wendelanchieta/python/tree/master/mysql)
 * [Web Crawler (Rastreador web)](https://github.com/wendelanchieta/python/tree/master/crawler)
