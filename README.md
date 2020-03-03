@@ -9,6 +9,6 @@
 ## Funcionalidades úteis escritas em Python
 
 Lista de Funcionalidades:
-* Manipulação de pdf
-* Exportação de dados de um banco MySQL para um arquivo Excel.
+* [Manipulação de pdf](https://github.com/wendelanchieta/python/tree/master/pdf)
+* [Exportação de dados de um banco MySQL para um arquivo Excel.](/tree/master/mysql)
 * [Web Crawler (Rastreador web)](https://github.com/wendelanchieta/python/tree/master/crawler)
